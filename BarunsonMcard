@@ -1,0 +1,877 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <!-- 전화번호 a 태그로 자동 인식되는 현상 방지 -->
+    <meta name="format-detection" content="telephone=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes">
+    <META NAME="ROBOTS" CONTENT="NOINDEX">
+    <meta property="og:url" content="https://www.barunsonmcard.com/m/250216wed" />
+    <meta property="og:title" content="결혼식에 초대합니다" />
+    <meta property="og:type" content="website" />
+        <meta property="og:image" content="https://resources.barunsonmcard.com/upload/invitation/250106/790591/bd56d9fc-e3ba-4f46-8273-2635d582f82a.jpg" />
+        <meta property="og:image:width" content="752" />
+        <meta property="og:image:height" content="788" />
+    <meta property="og:description" content="바른손카드 모바일청첩장" />
+    <meta property="fb:app_id" content="555274031340396" />
+
+    <title>바른손카드 모바일청첩장</title>
+
+    <link rel="stylesheet" href="/dist/css/photoswipe.css?v=W9waj8wPlaM2Wxibluk8d_mZ_q6F7HYAZkBp8xErSEg" />
+    <link rel="stylesheet" href="/css/swiper-bundle.min.css?v=xchAvEWK4PlA6kNrPgulShWGzRbOsV8e_ZC3GfYUZKE" />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet"><!--Noto Sans-->
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap" rel="stylesheet"><!--나눔 고딕-->
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@400;700&display=swap" rel="stylesheet"><!--나눔 고딕 코딩-->
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&display=swap" rel="stylesheet"><!--나눔 명조-->
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet"> <!--나눔 펜 스크립트-->
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap" rel="stylesheet"> <!--나눔 브러쉬 스크립트-->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"> <!--Cinzel-->
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:300" rel="stylesheet">
+    <link href="https://spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css" rel="stylesheet">
+    
+    <link href="https://hangeul.pstatic.net/hangeul_static/css/nanum-barun-pen.css" rel="stylesheet">
+    <link href="https://hangeul.pstatic.net/hangeul_static/css/nanum-barun-gothic.css" rel="stylesheet">
+    <link href="https://hangeul.pstatic.net/hangeul_static/css/nanum-square-round.css" rel="stylesheet">
+    <link href="https://hangeul.pstatic.net/hangeul_static/css/nanum-square.css" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="/css/extra_font.css?v=8HTXE6eY1H-wf8NgTDBhoYGUDU62JtZi4eJ8MnN2Idg">
+    <link rel="stylesheet" type="text/css" href="/css/style.css?v=HVStoiIuRmlRFpzgNd92V2-lndRCwLxJ5OE4jOqWafA">
+    <link rel="stylesheet" type="text/css" href="/css/loader.css?v=ndzdcCMZPNPDwL93d89bhgD4d6H5S6LcZLCUR_racps">
+    <link rel="stylesheet" type="text/css" href="/css/jquery.mCustomScrollbar.min.css?v=JHGEmB629pipTkMag9aMaw32I8zle24p3FpsEeI6oZU">
+    <link rel="stylesheet" type="text/css" href="/css/m2page.css?v=PhSYdwEPyOGdYvKVoGRlEtJQ8TOeRSz6c6G4ABNI-5A" />
+
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NBB7YR65BT"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-NBB7YR65BT');
+    </script>
+
+    <!-- Tmap -->
+    <script src="/js/tmap.js"></script>
+</head>
+<body>
+    <div id="wrap">
+        <input type="hidden" id="eventDateTime" value="2025-02-16 일요일 오후 4시" />
+        <input type="hidden" id="eventDate" value="2025-02-16" />
+
+            
+    <div id="area1" idx="1" class="templatearea bindarea" style="height:1422.99px; ">
+        
+    <div id="11075908" class="item ITC02" style="position:absolute; top:0px; left: 0px;">
+        <img class="img" src="https://resources.barunsonmcard.com/upload/invitation/250106/790591/089c7f7d-018a-46b2-b5e7-59ff04d10358.png" style="width:800px; height:1423px;" alt="image" />
+    </div>
+
+        
+    <div id="11075909" class="item ITC01" style="position:absolute; top:335px; left: 0px; width: 800px; height: 82px;align-items: center;">
+        <div class="text" style="font-family: 'Nanum Myeongjo', serif;color: #C68F69;font-size: 55px;font-weight: bold;text-align: center;letter-spacing: 0.24em;line-height: 1.4em;">
+            장대환
+        </div>
+    </div>
+
+        
+    <div id="11075910" class="item ITC01" style="position:absolute; top:551px; left: 0px; width: 800px; height: 82px;align-items: center;">
+        <div class="text" style="font-family: 'Nanum Myeongjo', serif;color: #C68F69;font-size: 55px;font-weight: bold;text-align: center;letter-spacing: 0.24em;line-height: 1.4em;">
+            이원영
+        </div>
+    </div>
+
+        
+    <div id="11075911" class="item ITC02" style="position:absolute; top:454px; left: 371.515625px;">
+        <img class="img" src="https://resources.barunsonmcard.com/upload/invitation/250106/790591/c500950c-154b-4e98-86b1-1e61e79f8cfe.png" style="width:59.2344px; height:52px;" alt="image" />
+    </div>
+
+        
+    <div id="11075912" class="item ITC01" style="position:absolute; top:1056px; left: 0px; width: 800px; height: 52px;align-items: center;">
+        <div class="text" style="font-family: 'Nanum Myeongjo', serif;color: #C68F69;font-size: 35px;font-weight: bold;text-align: center;letter-spacing: 0em;line-height: 1.4em;">
+            2025. 02. 16. SUN PM 4:00
+        </div>
+    </div>
+
+        
+    <div id="11075913" class="item ITC01" style="position:absolute; top:1117px; left: 0px; width: 800px; height: 52px;align-items: center;">
+        <div class="text" style="font-family: 'Nanum Myeongjo', serif;color: #C68F69;font-size: 35px;text-align: center;letter-spacing: 0em;line-height: 1.4em;">
+            FKI플라자 1층 그랜드볼룸
+        </div>
+    </div>
+
+    </div>
+    <div id="area2" idx="2" class="templatearea bindarea" style="height:1390.87px; ">
+        
+    <div id="11075914" class="item ITC02" style="position:absolute; top:0px; left: 0px;">
+        <img class="img" src="https://resources.barunsonmcard.com/upload/invitation/250106/790591/74649c11-4212-441e-9ee5-b47a17f40b80.png" style="width:800px; height:248px;" alt="image" />
+    </div>
+
+        
+    <div id="11075915" class="item ITC01" style="position:absolute; top:266px; left: 0px; width: 800px; height: 576px;align-items: flex-start;">
+        <div class="text" style="font-family: 'Nanum Myeongjo', serif;color: #333333;font-size: 34px;text-align: center;letter-spacing: 0em;line-height: 2.3em;">
+            늘 곁에서 아껴준 고마운 분들을 초대합니다. 
+<br>
+<br>저희는 살아오며 많은 분들의 따뜻한 
+<br>애정과 손길로 성장해왔다고 믿습니다. 
+<br>일상의 순간순간마다 힘이 되어준 분들에게 
+<br>작게나마 감사의 인사를 전하고자 합니다.
+<br>그동안 저희를 아껴주신 마음 그대로 배려와 
+<br>존중의 마음을 품고 함께 걸어가겠습니다.
+<br>
+<br>짧은 시간이지만 함께 기쁨을 나누었으면 합니다.
+<br>부디 자리하시어 저희의 새로운 출발에 
+<br>축하와 따스한 격려를 보내주세요. 
+<br>
+<br>감사합니다.
+        </div>
+    </div>
+
+    </div>
+
+    <!-- 연락처  -->
+    <div id="area4" idx="4" class="call">
+        <div class="grid_box">
+            <dl>
+                <dt>
+                    <span class="blue">신랑</span>
+                </dt>
+                <dd><a href="tel:01064163836"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/ico_24_call.svg" width="24" alt="전화 아이콘" /></a></dd>
+                <dd><a href="sms:01064163836"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/ico_24_sms.svg" width="24" alt="SMS 아이콘" /></a></dd>
+            </dl>
+            <dl>
+                <dt>
+                    <span class="blue">신부</span>
+                </dt>
+                <dd><a href="tel:01086075594"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/ico_24_call.svg" width="24" alt="전화 아이콘" /></a></dd>
+                <dd><a href="sms:01086075594"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/ico_24_sms.svg" width="24" alt="SMS 아이콘" /></a></dd>
+            </dl>
+        </div>
+            <section class="onoff_2">
+                <div class="list_wrap">
+                    <button type="button" class="info_detail">정보 더보기</button>
+                    <ul class="grid_box">
+                            <li>
+                                <h3>신랑 측 혼주</h3>
+                                    <div class="list_con">
+                                        <p>
+                                                <span>아버지</span>
+                                                <span class="name">
+                                                    <span class="deceased_text" style='display:none;'>
+(故)                                                    </span>
+                                                    장종수
+                                                </span>
+                                        </p>
+                                        <div class="btn_wrap">
+                                                <a href="tel:01052792838"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/ico_24_call.svg" width="20" alt="전화 아이콘"></a>
+                                                <a href="sms:01052792838"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/ico_24_sms.svg" width="21" alt="SMS 아이콘"></a>
+                                        </div>
+                                    </div>
+                                    <div class="list_con">
+                                        <p>
+                                                <span>어머니</span>
+                                                <span class="name">
+                                                    <span class="deceased_text" style='display:none;'>
+(故)                                                    </span>
+                                                    곽말희
+                                                </span>
+                                        </p>
+                                        <div class="btn_wrap">
+                                                <a href="tel:01043835527"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/ico_24_call.svg" width="20" alt="전화 아이콘"></a>
+                                                <a href="sms:01043835527"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/ico_24_sms.svg" width="21" alt="SMS 아이콘"></a>
+                                        </div>
+                                    </div>
+                            </li>
+                            <li>
+                                <h3>신부 측 혼주</h3>
+                                    <div class="list_con">
+                                        <p>
+                                                <span>아버지</span>
+                                                <span class="name">
+
+                                                    <span class="deceased_text" style='display:none;'>
+(故)                                                    </span>
+                                                    이대원
+                                                </span>
+                                        </p>
+                                        <div class="btn_wrap">
+                                                <a href="tel:01089595518"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/ico_24_call.svg" width="20" alt="전화 아이콘"></a>
+                                                <a href="sms:01089595518"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/ico_24_sms.svg" width="21" alt="SMS 아이콘"></a>
+                                        </div>
+                                    </div>
+                                    <div class="list_con">
+                                        <p>
+                                                <span>어머니</span>
+                                                <span class="name">
+
+                                                    <span class="deceased_text" style='display:none;'>
+(故)                                                    </span>
+                                                    김명희
+                                                </span>
+                                        </p>
+                                        <div class="btn_wrap">
+                                                <a href="tel:01071355518"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/ico_24_call.svg" width="20" alt="전화 아이콘"></a>
+                                                <a href="sms:01071355518"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/ico_24_sms.svg" width="21" alt="SMS 아이콘"></a>
+                                        </div>
+                                    </div>
+                            </li>
+                    </ul>
+                </div>
+            </section>
+    </div>
+    <!-- //신랑 & 신부 연락 -->
+
+
+
+    
+<input type="hidden" id="isPopup" value="false" />
+
+<div id="area23" idx="23" class="rsvp rsvp_area">
+    <h3>소중한 분들을 모십니다</h3>
+    <p>
+        축하의 마음으로 참석해 주실<br />모든 분을 정중히 모시고자 하오니,<br />참석 여부를 알려주시면 감사하겠습니다.
+    </p>
+    <button type="button" class="btn purple" onclick="layerPopOpen('attendIp_pop')">전달하기</button>
+</div>
+
+<!-- 참석 의사 전달 팝업 -->
+<div class="pop_wrap attend_pop">
+    <div class="bottom_pop rsvp">
+        <button type="button" class="btn btn_close" onclick="popClose();">
+            <img src="/img/order/icon_close.svg" alt="닫기 버튼" />
+        </button>
+        <div class="title">
+            <h2>소중한 분들을 모십니다</h2>
+        </div>
+        <div class="contents">
+            <div class="txt">
+                <p>
+                    축하의 마음으로 참석해 주실<br />모든 분을 정중히 모시고자 하오니,<br />참석 여부를 알려주시면 감사하겠습니다.
+                </p>
+            </div>
+            <div class="list">
+                <ul>
+                    <li>
+                        <span>주인공</span>
+                        <p>신랑 장대환 & 신부 이원영</p>
+                    </li>
+                    <li>
+                        <span>예식일</span>
+                        <p>2025-02-16 일요일 오후 4시</p>
+                    </li>
+                    <li>
+                        <span>위치</span>
+                        <p>FKI플라자 1층 그랜드볼룸</p>
+                    </li>
+                </ul>
+            </div>
+            <button type="button" class="btn purple" onclick="layerPopOpen('attendIp_pop')">전달하기</button>
+            <div class="close">
+                <a href="javascript:closePopupNotToday();">오늘 그만보기</a>
+                <a href="javascript:;" onclick="popClose();">닫기</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- //참석 의사 전달 팝업 -->
+<!-- 참석 의사 내용 입력 팝업 -->
+<div class="pop_wrap attendIp_pop">
+    <div class="bottom_pop rsvp" id="">
+        <button type="button" class="btn btn_close" onclick="popClose();">
+            <img src="/img/order/icon_close.svg" alt="닫기 버튼" />
+        </button>
+        <div class="title">
+            <h2>참석 의사 전달</h2>
+        </div>
+        <div class="contents">
+            <div class="tab_menu">
+                <button type="button" class="btn tab_btn active" data-tab="tab_groom">신랑</button>
+                <button type="button" class="btn tab_btn" data-tab="tab_priest">신부</button>
+            </div>
+            <div class="tab_content" id="tab_groom">
+                <form id="frmRsvp_0" method="post" action="/m2/RsvpSave">
+                    <input type="hidden" name="Invitation_ID" value="790591" />
+                    <input type="hidden" name="Type" value="G" />
+                    <div class="form_list">
+                        <ul>
+                            <li>
+                                <span>성함 <strong class="import"></strong></span>
+                                <input type="text" name="Name" class="inp" placeholder="참석자 성함" maxlength="50" />
+                            </li>
+
+                            <li>
+                                <span>참석인원 <strong class="import"></strong></span>
+                                <input type="text" name="AttendCount" onkeyup="chkNumber(this);" class="inp" placeholder="본인 포함 총 참석 인원수" />
+                            </li>
+
+                            <!-- 연락처 -->
+                            <!-- 동행인 -->
+                                <li>
+                                    <span>동행인</span>
+                                    <input type="text" name="AccompanyName" class="inp" placeholder="여러 명 입력 시 쉼표 구분" maxlength="500" /> <!-- 에러시 er 클래스 추가 라인 스타일 적용 해놨습니다. -->
+                                </li>
+                            <!-- 식사여부 -->
+                                <li>
+                                    <span>식사여부 <strong class="import"></strong></span>
+                                    <input type="hidden" name="EatType" value="" />
+                                    <div class="btn_box">
+                                        <button type="button" class="eatTypeBtn btn" data-type="1">예정</button>
+                                        <button type="button" class="eatTypeBtn btn" data-type="2">안함</button>
+                                        <button type="button" class="eatTypeBtn btn" data-type="3">미정</button>
+                                    </div>
+                                </li>
+                            <!-- 버스대절 -->
+                        </ul>
+                    </div>
+                    <div class="example">
+                        <p>
+                            전달한 내용은 수정이 불가합니다. <br />
+                            내용 변동이 있을 경우 재전달해주세요.
+                        </p>
+                    </div>
+                    <div class="policy">
+                        <div class="title">
+                            <h4>개인정보 수집 및 이용 동의 <span>(필수)</span></h4>
+                        </div>
+                        <div class="policy_con">
+                            <p>참석여부 전달을 위한 개인정보 수집 및 이용에 동의해 주세요.</p>
+                            <ul class="dec">
+                                <li>
+                                    <span>제공 받는 자 :</span>
+                                    <p>모바일 청첩장 주문자(신랑,신부)</p>
+                                </li>
+                                <li>
+                                    <span>이용 목적 :</span>
+                                    <p>행사 참석여부 확인</p>
+                                </li>
+                                <li>
+                                    <span>제공 항목 :</span>
+                                    <p>참석자 성함(필수), 참석자 연락처(참석자 제공시)</p>
+                                </li>
+                                <li>
+                                    <span>보유 기간 :</span>
+                                    <p>예식일(행사일)로부터 90일</p>
+                                </li>
+                            </ul>
+                            <p>
+                                개인정보 수집 및 이용에 대한 동의를 거부할 권리가 있으며, 동의 거부 시 참석 여부 서비스 이용이 불가합니다.
+                            </p>
+                        </div>
+                        <div class="policy_list">
+                            <ul>
+                                <li>
+                                    <span class="check_box">
+                                        <input type="checkbox" name="agree" id="agree02" />
+                                        <label for="agree02">수집 및 이용에 동의합니다.</label>
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8IKCwVXRQWpPi6w-V9TwhrSrA24UMPqlAqhNMbXyrjJTTeMGC-rGQhCHDOO75CSpIG_tF6QuAMJHZwEaEuYjvjMSqBP1K7pwQp_pv1F9BHc1IicJruyqieTvrDvd0QQbG9q5m-nNOb7AykF8qrLGjWbASmVanC77VMAX42fGEKoVhXcohs9SloDsHv0ABHHEjg" /></form>
+            </div>
+            <div class="tab_content" id="tab_priest" style="display:none;">
+                <form id="frmRsvp_1" method="post" action="/m2/RsvpSave">
+                    <input type="hidden" name="Invitation_ID" value="790591" />
+                    <input type="hidden" name="Type" value="B" />
+                    <div class="form_list">
+                        <!-- 신랑신부 공통 사용 -->
+                            <ul>
+                                <li>
+                                    <span>성함 <strong class="import"></strong></span>
+                                    <input type="text" name="Name" class="inp" placeholder="참석자 성함" maxlength="50" />
+                                </li>
+
+                                <li>
+                                    <span>참석인원 <strong class="import"></strong></span>
+                                    <input type="text" name="AttendCount" onkeyup="chkNumber(this);" class="inp" placeholder="본인 포함 총 참석 인원수" />
+                                </li>
+
+                                <!-- 연락처 -->
+                                <!-- 동행인 -->
+                                    <li>
+                                        <span>동행인</span>
+                                        <input type="text" name="AccompanyName" class="inp" placeholder="여러 명 입력 시 쉼표 구분" maxlength="500" /> <!-- 에러시 er 클래스 추가 라인 스타일 적용 해놨습니다. -->
+                                    </li>
+                                <!-- 식사여부 -->
+                                    <li>
+                                        <span>식사여부 <strong class="import"></strong></span>
+                                        <input type="hidden" name="EatType" value="" />
+                                        <div class="btn_box">
+                                            <button type="button" class="eatTypeBtn btn" data-type="1">예정</button>
+                                            <button type="button" class="eatTypeBtn btn" data-type="2">안함</button>
+                                            <button type="button" class="eatTypeBtn btn" data-type="3">미정</button>
+                                        </div>
+                                    </li>
+                                <!-- 버스대절 -->
+                            </ul>
+                    </div>
+                    <div class="example">
+                        <p>
+                            전달한 내용은 수정이 불가합니다. <br />
+                            내용 변동이 있을 경우 재전달해주세요.
+                        </p>
+                    </div>
+                    <div class="policy">
+                        <div class="title">
+                            <h4>개인정보 수집 및 이용 동의 <span>(필수)</span></h4>
+                        </div>
+                        <div class="policy_con">
+                            <p>참석여부 전달을 위한 개인정보 수집 및 이용에 동의해 주세요.</p>
+                            <ul class="dec">
+                                <li>
+                                    <span>제공 받는 자 :</span>
+                                    <p>모바일 청첩장 주문자(신랑,신부)</p>
+                                </li>
+                                <li>
+                                    <span>이용 목적 :</span>
+                                    <p>행사 참석여부 확인</p>
+                                </li>
+                                <li>
+                                    <span>제공 항목 :</span>
+                                    <p>참석자 성함(필수), 참석자 연락처(참석자 제공시)</p>
+                                </li>
+                                <li>
+                                    <span>보유 기간 :</span>
+                                    <p>예식일(행사일)로부터 90일</p>
+                                </li>
+                            </ul>
+                            <p>
+                                개인정보 수집 및 이용에 대한 동의를 거부할 권리가 있으며, 동의 거부 시 참석 여부 서비스 이용이 불가합니다.
+                            </p>
+                        </div>
+                        <div class="policy_list">
+                            <ul>
+                                <li>
+                                    <span class="check_box">
+                                        <input type="checkbox" name="agree" id="agree01" />
+                                        <label for="agree01">수집 및 이용에 동의합니다.</label>
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8IKCwVXRQWpPi6w-V9TwhrSrA24UMPqlAqhNMbXyrjJTTeMGC-rGQhCHDOO75CSpIG_tF6QuAMJHZwEaEuYjvjMSqBP1K7pwQp_pv1F9BHc1IicJruyqieTvrDvd0QQbG9q5m-nNOb7AykF8qrLGjWbASmVanC77VMAX42fGEKoVhXcohs9SloDsHv0ABHHEjg" /></form>
+            </div>
+            <div class="tab_content" id="tab_priest" style="display:none;">
+                <form id="frmRsvp_1" method="post" action="/m2/RsvpSave">
+                    <input type="hidden" name="Invitation_ID" value="790591" />
+                    <input type="hidden" name="Type" value="B" />
+                    <div class="form_list">
+                        <ul>
+                            <li>
+                                <span>성함 <strong class="import"></strong></span>
+                                <input type="text" name="Name" class="inp" placeholder="참석자 성함" />
+                            </li>
+                            <li>
+                                <span>연락처</span>
+                                <input type="text" name="Contact" class="inp" placeholder="참석자 연락처" />
+                            </li>
+                            <li>
+                                <span>참석인원 <strong class="import"></strong></span>
+                                <input type="text" name="AttendCount" class="inp" placeholder="본인 포함 총 참석 인원수" />
+                            </li>
+                            <li>
+                                <span>동행인</span>
+                                <input type="text" name="AccompanyName" class="inp" placeholder="여러 명 입력 시 쉼표 구분" />
+                            </li>
+                            <li>
+                                <span>식사여부 <strong class="import"></strong></span>
+                                <input type="hidden" name="EatType" value="1" />
+                                <div class="btn_box">
+                                    <button type="button" class="eatTypeBtn btn active" data-type="1">예정</button>
+                                    <button type="button" class="eatTypeBtn btn" data-type="2">안함</button>
+                                    <button type="button" class="eatTypeBtn btn" data-type="3">미정</button>
+                                </div>
+                            </li>
+                            <li>
+                                <span>대절버스 <strong class="import"></strong></span>
+                                <input type="hidden" name="IsBus" value="true" />
+                                <div class="btn_box">
+                                    <button type="button" class="isBusBtn btn active" data-type="true">탑승</button>
+                                    <button type="button" class="isBusBtn btn" data-type="false">미탑승</button>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="example">
+                        <p>
+                            전달한 내용은 수정이 불가합니다. <br />
+                            내용 변동이 있을 경우 재전달해주세요.
+                        </p>
+                    </div>
+                    <div class="policy">
+                        <div class="title">
+                            <h4>개인정보 수집 및 이용 동의 <span>(필수)</span></h4>
+                        </div>
+                        <div class="policy_con">
+                            <p>참석여부 전달을 위한 개인정보 수집 및 이용에 동의해 주세요.</p>
+                            <ul class="dec">
+                                <li>
+                                    <span>제공 받는 자 :</span>
+                                    <p>모바일 청첩장 주문자(신랑,신부)</p>
+                                </li>
+                                <li>
+                                    <span>이용 목적 :</span>
+                                    <p>행사 참석여부 확인</p>
+                                </li>
+                                <li>
+                                    <span>제공 항목 :</span>
+                                    <p>참석자 성함(필수), 참석자 연락처(참석자 제공시)</p>
+                                </li>
+                                <li>
+                                    <span>보유 기간 :</span>
+                                    <p>예식일(행사일)로부터 90일</p>
+                                </li>
+                            </ul>
+                            <p>
+                                개인정보 수집 및 이용에 대한 동의를 거부할 권리가 있으며, 동의 거부 시 참석 여부 서비스 이용이 불가합니다.
+                            </p>
+                        </div>
+                        <div class="policy_list">
+                            <ul>
+                                <li>
+                                    <span class="check_box">
+                                        <input type="checkbox" name="agree" id="agree02" />
+                                        <label for="agree02">수집 및 이용에 동의합니다.</label>
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8IKCwVXRQWpPi6w-V9TwhrSrA24UMPqlAqhNMbXyrjJTTeMGC-rGQhCHDOO75CSpIG_tF6QuAMJHZwEaEuYjvjMSqBP1K7pwQp_pv1F9BHc1IicJruyqieTvrDvd0QQbG9q5m-nNOb7AykF8qrLGjWbASmVanC77VMAX42fGEKoVhXcohs9SloDsHv0ABHHEjg" /></form>
+            </div>
+        </div>
+        <div class="bottom_box">
+            <button type="submit" class="btn purple" id="rsvpReg">전달하기</button>
+        </div>
+    </div>
+</div>
+<!-- //참석 의사 내용 입력 팝업 -->
+
+<script>
+
+</script>
+
+    
+<!-- 오시는 타이틀 이미지 -->
+    <div id="area9" idx="9" class="templatearea bindarea" style="height:182.989px; ">
+            
+    <div id="11075917" class="item ITC02" style="position:absolute; top:0px; left: 0px;">
+        <img class="img" src="https://resources.barunsonmcard.com/upload/invitation/250106/790591/41d748dc-d393-4f5c-9b79-36cbd204ef43.png" style="width:800px; height:183px;" alt="image" />
+    </div>
+
+    </div>
+<!-- 오시는 길 -->
+<div id="area10" idx="10" class="location line">
+    <div class="area">
+        <div class="map_info">
+            <dl class="map_title">
+                <dt>
+                    <span>FKI플라자</span>
+                    <span>1층 그랜드볼룸</span>
+                </dt>
+                <dd id="addressDetail">서울 영등포구 여의도동 28-1 FKI Tower (구 전경련회관)</dd>
+                <dd>02-2055-4780</dd>
+            </dl>
+            <div class="location_button_box">
+                
+                        <a href="https://m.map.naver.com/map.naver?lat=37.5221999&amp;lng=126.9202625&amp;dlevel=20&amp;mapMode=&amp;pinTitle=FKI플라자&amp;boundary=&amp;traffic=" class="map_btn" target="_blank" data-lat="37.5221999" data-lng="126.9202625" data-name="FKI플라자">지도</a>
+
+                    <a href="tel:02-2055-4780" class="call_btn">전화</a>
+            </div>
+        </div>
+                <div class="map_wrap">
+                    <iframe id="map" src="https://www.barunsonmcard.com/m2/navermap?lot=126.9202625&amp;lat=37.5221999&amp;name=FKI플라자" width="750" height="320" frameborder="0" style="border: 0" allowfullscreen></iframe>
+                </div>
+                <!-- 위치 네비게이션 -->
+                <div class="navigation">
+                    <ul>
+                        <li>
+                            <a href="javascript:TMAP.send('서울 영등포구 여의도동 28-1 FKI Tower (구 전경련회관)', 126.9202625, 37.5221999);"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/tmap.png" /> 티맵</a>
+                        </li>
+                        <li>
+                            <a href="javascript:startNavigation('서울 영등포구 여의도동 28-1 FKI Tower (구 전경련회관)', 126.9202625, 37.5221999)"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/kakaonav.png" /> 카카오내비</a>
+                        </li>
+                        <li>
+                            <a href="https://m.map.naver.com/search2/search.nhn?query=서울 영등포구 여의도동 28-1 FKI Tower (구 전경련회관)" target="_blank"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/icon/navermap.jpg" /> 네이버 지도</a>
+                        </li>
+                    </ul>
+                </div>
+        
+    </div>
+</div>
+
+
+
+        <!-- 신랑 & 신부에게 마음 전하기 -->
+    <div class="remittance">
+            <div id="area12" idx="12" class="templatearea bindarea" style="height:222.989px; ">
+                    
+    <div id="11075907" class="item ITC02" style="position:absolute; top:0px; left: 0px;">
+        <img class="img" src="https://resources.barunsonmcard.com/upload/invitation/250106/790591/5d5e548b-d6c4-4d4c-b937-f7ceca0c0c8b.png" style="width:800px; height:223px;" alt="image" />
+    </div>
+
+            </div>
+        <div id="area13" idx="13" class="btn_wrap">
+                <a href="#" class="btn an_btn type03 account" data-idx="-1">계좌번호 보기</a>                
+        </div>
+    </div>
+    <!-- 계좌번호 팝업 -->
+        <div class="account_pop" data-idx="-1">
+            <div class="layer_pop">
+                <div class="account_list">
+                        <dl>
+                            <dt>
+                                <span>신랑혼주</span>&nbsp;&nbsp;계좌
+                            </dt>
+                                <dd>
+                                    <span>
+                                        IBK기업
+                                    </span>&nbsp;&nbsp;(예금주 : <span>장종수</span>)
+                                </dd>
+                            <dd>
+                                <span>33300912802010</span>
+                            </dd>
+                            <dd>
+                                <div class="action">
+                                        <a href="#" class="act_btn copy_account copy_btn" data-account="33300912802010">계좌번호 복사</a>
+                                    
+
+                                </div>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt>
+                                <span>신부혼주</span>&nbsp;&nbsp;계좌
+                            </dt>
+                                <dd>
+                                    <span>
+                                        우리은행
+                                    </span>&nbsp;&nbsp;(예금주 : <span>이대원</span>)
+                                </dd>
+                            <dd>
+                                <span>17808247245</span>
+                            </dd>
+                            <dd>
+                                <div class="action">
+                                        <a href="#" class="act_btn copy_account copy_btn" data-account="17808247245">계좌번호 복사</a>
+                                    
+
+                                </div>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt>
+                                <span>신랑</span>&nbsp;&nbsp;계좌
+                            </dt>
+                                <dd>
+                                    <span>
+                                        카카오뱅크
+                                    </span>&nbsp;&nbsp;(예금주 : <span>장대환</span>)
+                                </dd>
+                            <dd>
+                                <span>79797073274</span>
+                            </dd>
+                            <dd>
+                                <div class="action">
+                                        <a href="#" class="act_btn copy_account copy_btn" data-account="79797073274">계좌번호 복사</a>
+                                    
+
+                                </div>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt>
+                                <span>신부</span>&nbsp;&nbsp;계좌
+                            </dt>
+                                <dd>
+                                    <span>
+                                        카카오뱅크
+                                    </span>&nbsp;&nbsp;(예금주 : <span>이원영</span>)
+                                </dd>
+                            <dd>
+                                <span>3333050298082</span>
+                            </dd>
+                            <dd>
+                                <div class="action">
+                                        <a href="#" class="act_btn copy_account copy_btn" data-account="3333050298082">계좌번호 복사</a>
+                                    
+
+                                </div>
+                            </dd>
+                        </dl>
+                </div>
+                <div class="btn_wrap type01">
+                    <a href="#" class="btn close">닫기</a>
+                </div>
+
+            </div>
+            <div class="pop_mask"></div>
+        </div>
+
+        <div class="remittance_noflower"></div>
+
+
+        <!-- 안내문구 팝업 -->
+        <div class="toast"></div>
+
+        <!-- footer -->
+        <footer class="footer">
+            <input type="hidden" id="url" value="https://www.barunsonmcard.com/m/" />
+            <ul class="sns_list">
+                <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.barunsonmcard.com/m/250216wed" target="_blank"><img src="/img/skin/facebook_icon.png" width="12" alt="페이스북"></a></li>
+                    <li><a href="javascript:shareMessage();" id="kakao-link-btn"><img src="/img/skin/kakao_icon.png" width="40" alt="카카오톡"></a></li>
+                <li><a href="https://www.barunsonmcard.com/m/250216wed" class="copy_url"><img src="/img/skin/linkcopy_icon.png" width="24" alt="링크복사"></a></li>
+            </ul>
+            <div class="dvfooter">
+                <a href="https://www.barunsonmcard.com" target="_blank"><img src="https://static.barunsoncard.com/barunsonmcard/invitation/barunson_logo.png"></a>
+            </div>
+        </footer>
+        <!-- //footer -->
+    </div>
+
+
+    <div class="loader_mcard">
+        <div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="/js/swiper-bundle.min.js"></script>
+    <script type="text/javascript" src="/dist/js/photoswipe.js"></script>
+    <script type="text/javascript" src="/dist/js/photoswipe-ui-default.min.js"></script>
+    <script type="text/javascript" src="/dist/js/photoswipe-gallery.js"></script>
+    <script src="https://t1.kakaocdn.net/kakao_js_sdk/2.6.0/kakao.min.js"
+            integrity="sha384-6MFdIr0zOira1CHQkedUqJVql0YtcZA1P0nbPrQYJXVJZUkTk/oX4U9GhUIs3/z8" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="/js/jquery.mCustomScrollbar.js"></script>
+    <script type="text/javascript" src="/js/m2page.js?v=ptQxOLtohxv8t3NoPkvNro4K3BFgIJ0m6hYh7sy_hRk"></script>
+    <script type="text/javascript" src="/js/common/common.js?v=ByAnOz9Yp3rkpuDxTOkbtsxCg7xHdGAkz29sRwLY2XU"></script>
+        <script type="text/javascript">
+            $(document).ready(function (e) {
+                var _image = $('meta[property="og:image"]').attr('content');
+                
+                Kakao.init('94a08cfa99972d4a71c99401069b1311');
+
+                if (_image == null || _image.length == 0) {
+                    $("#kakao-link-btn").hide();
+                }
+
+                //축의금 내용이 없으면 버튼 숨김
+                const idxs = [];
+                $(".account_pop").each(function (i) {
+                    idxs.push($(this).attr("data-idx"));
+                });
+
+                //신랑
+                if (idxs.indexOf("1") == -1){
+                    $(".groom").hide();
+                }
+
+                //신부
+                if (idxs.indexOf("2") == -1) {
+                    $(".bride").hide();
+                }
+            });
+
+            function shareMessage() {
+                var _url = $('meta[property="og:url"]').attr('content');
+                var _title = $('meta[property="og:title"]').attr('content');
+                var _desc = $('meta[property="og:description"]').attr('content');
+                var _image = $('meta[property="og:image"]').attr('content');
+                var _imgWidth = $('meta[property="og:image:width"]').attr('content');
+                var _imgHeight = $('meta[property="og:image:height"]').attr('content');
+                var _eventDateTime = $("#eventDateTime").val();
+                var _addressDetail = $("#addressDetail").text();
+
+                var lat = $('.map_btn').data('lat');
+                var lng = $('.map_btn').data('lng');
+                var loc = $('.map_btn').data('name');
+
+                var params = [];
+                params.push('lat='+lat);
+                params.push('lot='+lng);
+                params.push('name='+loc);
+
+                var mapUrl = window.location.origin+'/m2/mapredirect?' + params.join('&');
+
+                var kakaoDesc = _desc;
+                if (_eventDateTime.length > 0) {
+                    kakaoDesc = _eventDateTime + "\n" + _desc;
+                }
+
+                if ((_addressDetail != null && _addressDetail.length > 0)) {
+                    Kakao.Share.sendDefault({
+                        objectType: 'feed',         // 카카오톡 링크 타입
+                        content: {
+                            title: _title,              // 타이틀
+                            description: kakaoDesc,
+                            imageUrl: _image,           // 이미지
+                            link: {
+                                mobileWebUrl: _url,     // 모바일 주소
+                                webUrl: _url            // 웹 주소
+                            },
+                            imageWidth: parseInt(_imgWidth == null ? 0 : _imgWidth),
+                            imageHeight: parseInt(_imgHeight == null ? 0 : _imgWidth)
+                        },
+                        social: {
+                        },
+                        buttons: [
+                            {
+                                title: '자세히 보기',
+                                link: {
+                                    mobileWebUrl: _url,
+                                    webUrl: _url
+                                }
+                            },
+                            {
+                                title: '위치 보기',
+                                link: {
+                                    mobileWebUrl: mapUrl,
+                                    webUrl: mapUrl
+                                }
+                            },
+                        ]
+
+                    });
+                    //공유할 예식장 주소가 없으면
+                } else if ((_addressDetail.length == 0)) {
+                    Kakao.Share.sendDefault({
+                        objectType: 'feed',
+                        content: {
+                            title: _title,
+                            description: kakaoDesc,
+                            imageUrl: _image,
+                            link: {
+                                mobileWebUrl: _url,
+                                webUrl: _url,
+                            },
+                            imageWidth: parseInt(_imgWidth == null ? 0 : _imgWidth),
+                            imageHeight: parseInt(_imgHeight == null ? 0 : _imgWidth)
+                        },
+                        buttons: [
+                            {
+                                title: '자세히 보기',
+                                link: {
+                                    mobileWebUrl: _url,
+                                    webUrl: _url,
+                                },
+                            }
+                        ],
+                    });
+                }
+            }
+
+            function startNavigation(address, x, y) {
+                Kakao.Navi.start({
+                    name: address,
+                    x: x,
+                    y: y,
+                    coordType: 'wgs84'
+                });
+            }
+        </script>
+</body>
+</html>
